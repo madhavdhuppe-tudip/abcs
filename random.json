@@ -1,37 +1,37 @@
 {
 	"feed":[{
 			"id": "1",
-			"Channel_Name" : "Tic Tac Toe"
+			"Channel_Name" : "Tic Tac Toe",
 			"Channel_Id": "94479",
 			"icon": "https://image.roku.com/channels/images/6c23c26c68a3463fb5e4d1a4596fbf7e-hd.jpg"
 		},
 		{
 			"id": "2",
-			"Channel_Name" : "Match Four"
+			"Channel_Name" : "Match Four",
 			"Channel_Id": "98061",
 			"icon": "https://image.roku.com/channels/images/284b7662df544811b61dfcc88652298b-hd.png"
 		},
 		{
 			"id": "3",
-			"Channel_Name" : "Memory Match"
+			"Channel_Name" : "Memory Match",
 			"Channel_Id": "108740",
 			"icon": "https://image.roku.com/channels/images/afdc07b858044b4a858e59898fcb3743-hd.png"
 		},
 		{
 			"id": "4",
-			"Channel_Name" : "Checkers"
+			"Channel_Name" : "Checkers",
 			"Channel_Id": "112552",
 			"icon": "https://image.roku.com/developer_channels/prod/f0e342cf03357788949a57cb50cb08ceb21c1f43024add79156f5f604ef8dfe9.png"
 		},
 		{
 			"id": "5",
-			"Channel_Name" : "Snakes and ladders"
+			"Channel_Name" : "Snakes and ladders",
 			"Channel_Id": "108242",
 			"icon": "https://image.roku.com/developer_channels/prod/ec8a9eca4756e7d955e20214f412a4c9494184003c680baa826516d35ca87e0b.png"
 		},
 		{
 			"id": "6",
-			"Channel_Name" : "Peg Solitaire"
+			"Channel_Name" : "Peg Solitaire",
 			"Channel_Id": "116630",
 			"icon": "https://image.roku.com/developer_channels/prod/52044a0e52a8a7586a7ab24c96aba3b46e8904c72f9268ff397a9ef9a58a7781.png"
 		}]
